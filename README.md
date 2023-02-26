@@ -9,9 +9,9 @@ Linguagem utilizada : C# .NET 7
 - TestJobs_04 -> Calcular percentual de cada estado.
 - TestJobs_05 -> Inverter caracteres de uma string.
 
-⚡ A primeira regra de qualquer tecnologia utilizada nos negócios é que a automação aplicada a uma operação eficiente aumentará a eficiência. A segunda é que a automação aplicada a uma operação ineficiente aumentará a ineficiência.
+⚡ Trabalhe duro. Divirta-se. Faça história.
 
-Bill Gates.
+Jeff Bezos.
  
  <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
